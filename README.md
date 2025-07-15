@@ -2,6 +2,10 @@
 
 Une application web React pour gérer et suivre ses missions bénévoles.
 
+## 🔗 Lien
+
+[barbatruc.fr](barbatruc.fr)
+
 ## 🚀 Fonctionnalités
 
 - **Profil utilisateur** : Gestion des informations personnelles avec édition en ligne
@@ -106,7 +110,8 @@ L'application est configurée pour un déploiement automatique sur Netlify :
 - Partage sur réseaux sociaux
 - Mode sombre
 - Graphiques de progression
+- Faire un certificat TLS/SSL
 
 ## 📄 Licence
 
-Ce projet est créé dans le cadre d'un test technique de stage.# citizenvitae
+Ce projet est créé dans le cadre d'un test technique de stage. #citizenvitae
